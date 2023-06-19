@@ -1,0 +1,21 @@
+.a-class {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: pink;
+    font-size: 25px;
+}
+
+.a-class.cooler {
+    font-size: 30px;
+}
+
+#one-id {
+    background-color: white;
+    color: blue;
+    font-size: 40px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-size: 30px;
+    font-weight: bold;
+}
